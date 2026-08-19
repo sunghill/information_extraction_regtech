@@ -1,0 +1,4 @@
+docling
+pydantic
+unstructured
+pdfminer
